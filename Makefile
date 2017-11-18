@@ -1,5 +1,5 @@
 
-OBJS = accelerometer.o pod.o navigation.o
+OBJS = accelerometer.o pod.o navigation.o bms.o
 CC = g++
 DEBUG = -g
 CFLAGS = -std=c++11 -Wall -c -O3 $(DEBUG)
