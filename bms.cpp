@@ -8,6 +8,7 @@ BatteryManagementSystem::BatteryManagementSystem()
 double BatteryManagementSystem::get_voltage()
 {
     return 0;
+}
 
 double BatteryManagementSystem::get_current()
 {
